@@ -4,13 +4,13 @@
 
 A live wallpaper player for macOS: set a video, image, GIF or web page as your desktop wallpaper, playing full screen beneath your desktop icons.
 
-Version 1.4.0 · Requires macOS 14 or later · Runs on Macs with Apple silicon and Intel processors
+Version 1.4.1 · Requires macOS 14 or later · Runs on Macs with Apple silicon and Intel processors
 
 ## Installing and opening for the first time
 
 The installer is on the download page https://deskmotion.jiling.chat/ — please download it with a browser such as Safari or Chrome. When a friend installs DeskMotion for the first time, just send them this link (don't forward the installer through a chat app; see "The application can't be opened" in the FAQ for why).
 
-1. Double-click `DeskMotion-1.4.0.dmg` and drag **DeskMotion** to the Applications folder (labeled "应用程序" in the installer window).
+1. Double-click `DeskMotion-1.4.1.dmg` and drag **DeskMotion** to the Applications folder (labeled "应用程序" in the installer window).
 2. Double-click DeskMotion in Applications to open it.
 3. If macOS says the app can't be opened, or that the developer can't be verified:
    - Open System Settings → Privacy & Security, find the message about DeskMotion near the bottom, click "Open Anyway" and enter your password to confirm.

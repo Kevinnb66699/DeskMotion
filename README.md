@@ -4,13 +4,13 @@
 
 macOS 动态壁纸播放器：把视频、图片、GIF 或网页设为桌面壁纸，在桌面图标下方全屏播放。
 
-版本 1.4.0 · 需要 macOS 14 或更新版本 · 支持 Apple 芯片和 Intel 芯片的 Mac
+版本 1.4.1 · 需要 macOS 14 或更新版本 · 支持 Apple 芯片和 Intel 芯片的 Mac
 
 ## 安装与首次打开
 
 安装包在下载页 https://deskmotion.jiling.chat/ ，请用 Safari、Chrome 等浏览器下载。给朋友第一次安装时，发这个链接就行（不要用聊天软件转发安装包，原因见常见问题「提示无法打开应用程序」）。
 
-1. 双击 `DeskMotion-1.4.0.dmg`，把 **DeskMotion** 拖到「应用程序」文件夹。
+1. 双击 `DeskMotion-1.4.1.dmg`，把 **DeskMotion** 拖到「应用程序」文件夹。
 2. 在「应用程序」里双击打开 DeskMotion。
 3. 如果系统提示无法打开、或无法验证开发者：
    - 打开「系统设置 → 隐私与安全性」，在页面下方找到 DeskMotion 的提示，点「仍要打开」，输入密码确认；
